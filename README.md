@@ -11,17 +11,11 @@ Discover the unseen and safeguard your network with the Simple Port Scanner, a P
 <br>
 
 What’s Inside?
-
 <br>
-
 Swift Scans: Effortlessly pinpoint open ports on any given host.
-
 <br>
-
 User-Friendly: A straightforward script that speaks clarity.
-
 <br>
-
 Empowering Education: Ideal for learning the ropes of network security.
 
 <br>
