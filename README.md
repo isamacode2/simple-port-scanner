@@ -27,6 +27,7 @@ Embark on your scanning journey with these quick steps:
 <br>
 
 Ensure Python 3.x is part of your toolkit.
+
 No extra gear needed! It's all in the Python standard library.
 
 Usage 🚀
@@ -35,6 +36,7 @@ Unlock the potential of port scanning with ease:
 
 
 python simple_port_scanner.py [host] [start_port] [end_port]
+
 Ensure you’re authorized to scan the target host—responsibility is key! 🔑
 
 
@@ -49,6 +51,7 @@ Forge your path with a simple clone and command-line action:
 <br>
 
 Clone the repository: Unleash the script with a git command.
+
 Navigate to the script's lair: The command line is your launchpad.
 
 Examples 📚
@@ -56,6 +59,7 @@ Examples 📚
 <br>
 
 Set your sights on ports 70 through 80 for the host 192.168.1.1:
+
 python simple_port_scanner.py 192.168.1.1 70 80
 
 <br>
@@ -65,6 +69,7 @@ Troubleshooting 🔧
 <br>
 
 Validate your Python installation: A smooth run starts with a solid setup.
+
 Verify your target’s visibility: Reachability is the first step to connectivity.
 
 <br>
@@ -78,7 +83,9 @@ Join the odyssey of network exploration:
 <br>
 
 Propose Enhancements: Have an idea? Forge it into reality.
+
 Report Bugs: Spotted a glitch? Help us chart a course to smoother seas.
+
 Dive in with your pull requests—every contribution broadens the horizon.
 
 <br>
